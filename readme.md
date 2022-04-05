@@ -1,7 +1,7 @@
 ## Store Sales - Time Series Forecasting
 ### Use machine learning to predict grocery sales
 
-Kagge: https://www.kaggle.com/c/store-sales-time-series-forecasting/overview
+Kaggle: https://www.kaggle.com/c/store-sales-time-series-forecasting/overview
 
 ### File Descriptions and Data Field Information:
 #### train.csv:
